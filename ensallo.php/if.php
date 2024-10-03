@@ -44,6 +44,7 @@
             if($res==7||$res==6)
             echo"ok";
         else{
+            if($res==5)
             echo"no";
         }
         }
